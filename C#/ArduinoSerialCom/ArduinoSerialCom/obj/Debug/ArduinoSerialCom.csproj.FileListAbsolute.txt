@@ -1,0 +1,10 @@
+C:\Users\Mantas\Desktop\C#\ArduinoSerialCom\ArduinoSerialCom\bin\Debug\ArduinoSerialCom.exe.config
+C:\Users\Mantas\Desktop\C#\ArduinoSerialCom\ArduinoSerialCom\bin\Debug\ArduinoSerialCom.exe
+C:\Users\Mantas\Desktop\C#\ArduinoSerialCom\ArduinoSerialCom\bin\Debug\ArduinoSerialCom.pdb
+C:\Users\Mantas\Desktop\C#\ArduinoSerialCom\ArduinoSerialCom\obj\Debug\ArduinoSerialCom.Form1.resources
+C:\Users\Mantas\Desktop\C#\ArduinoSerialCom\ArduinoSerialCom\obj\Debug\ArduinoSerialCom.Properties.Resources.resources
+C:\Users\Mantas\Desktop\C#\ArduinoSerialCom\ArduinoSerialCom\obj\Debug\ArduinoSerialCom.csproj.GenerateResource.cache
+C:\Users\Mantas\Desktop\C#\ArduinoSerialCom\ArduinoSerialCom\obj\Debug\ArduinoSerialCom.csproj.CoreCompileInputs.cache
+C:\Users\Mantas\Desktop\C#\ArduinoSerialCom\ArduinoSerialCom\obj\Debug\ArduinoSerialCom.exe
+C:\Users\Mantas\Desktop\C#\ArduinoSerialCom\ArduinoSerialCom\obj\Debug\ArduinoSerialCom.pdb
+C:\Users\Mantas\Desktop\C#\ArduinoSerialCom\ArduinoSerialCom\obj\Debug\ArduinoSerialCom.csprojAssemblyReference.cache
